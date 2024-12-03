@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/utopiaswap.net/static/css/main.b8e753e3.css",
-    "main.js": "/utopiaswap.net/static/js/main.3952136e.js",
-    "static/media/pancakeswap.png": "/utopiaswap.net/static/media/pancakeswap.28ea4eb6af6e41411b80.png",
-    "static/media/bscusd.png": "/utopiaswap.net/static/media/bscusd.52592faa929f6e8c8299.png",
-    "static/media/index.cjs": "/utopiaswap.net/static/media/index.720d13936a625d158fd6.cjs",
-    "static/media/usdc.png": "/utopiaswap.net/static/media/usdc.b31a7d1cdc6fbd88b7bc.png",
-    "static/media/wbtc.png": "/utopiaswap.net/static/media/wbtc.19a8172080d2737db62f.png",
-    "static/media/utopLogo.png": "/utopiaswap.net/static/media/utopLogo.6c49a6e464f3915948e6.png",
-    "static/media/eth.png": "/utopiaswap.net/static/media/eth.d014d8873b0a42d42e45.png",
-    "static/media/wbnb.png": "/utopiaswap.net/static/media/wbnb.fdf03b8d7cd46b4e3921.png",
-    "static/media/weth.png": "/utopiaswap.net/static/media/weth.db6efc25de2470ac44a0.png",
-    "static/media/bnbLogo.png": "/utopiaswap.net/static/media/bnbLogo.43a29a03e208b69718c5.png",
-    "static/media/btcb.png": "/utopiaswap.net/static/media/btcb.fd6f8932a276dcdd1980.png",
-    "static/media/usdt.png": "/utopiaswap.net/static/media/usdt.f57aa403cbdb7c566527.png",
-    "static/media/polyLogo.png": "/utopiaswap.net/static/media/polyLogo.0f7408dd0dab6d49cbbf.png",
-    "static/media/wmatic.png": "/utopiaswap.net/static/media/wmatic.2f5770f43d58ba5f1097.png",
-    "static/media/inverseLogo.png": "/utopiaswap.net/static/media/inverseLogo.d75267089a8fb670bd94.png",
-    "index.html": "/utopiaswap.net/index.html",
-    "main.b8e753e3.css.map": "/utopiaswap.net/static/css/main.b8e753e3.css.map",
-    "main.3952136e.js.map": "/utopiaswap.net/static/js/main.3952136e.js.map"
+    "main.css": "/static/css/main.b8e753e3.css",
+    "main.js": "/static/js/main.e3f4499a.js",
+    "static/media/pancakeswap.png": "/static/media/pancakeswap.28ea4eb6af6e41411b80.png",
+    "static/media/bscusd.png": "/static/media/bscusd.52592faa929f6e8c8299.png",
+    "static/media/index.cjs": "/static/media/index.720d13936a625d158fd6.cjs",
+    "static/media/usdc.png": "/static/media/usdc.b31a7d1cdc6fbd88b7bc.png",
+    "static/media/wbtc.png": "/static/media/wbtc.19a8172080d2737db62f.png",
+    "static/media/utopLogo.png": "/static/media/utopLogo.6c49a6e464f3915948e6.png",
+    "static/media/eth.png": "/static/media/eth.d014d8873b0a42d42e45.png",
+    "static/media/wbnb.png": "/static/media/wbnb.fdf03b8d7cd46b4e3921.png",
+    "static/media/weth.png": "/static/media/weth.db6efc25de2470ac44a0.png",
+    "static/media/bnbLogo.png": "/static/media/bnbLogo.43a29a03e208b69718c5.png",
+    "static/media/btcb.png": "/static/media/btcb.fd6f8932a276dcdd1980.png",
+    "static/media/usdt.png": "/static/media/usdt.f57aa403cbdb7c566527.png",
+    "static/media/polyLogo.png": "/static/media/polyLogo.0f7408dd0dab6d49cbbf.png",
+    "static/media/wmatic.png": "/static/media/wmatic.2f5770f43d58ba5f1097.png",
+    "static/media/inverseLogo.png": "/static/media/inverseLogo.d75267089a8fb670bd94.png",
+    "index.html": "/index.html",
+    "main.b8e753e3.css.map": "/static/css/main.b8e753e3.css.map",
+    "main.e3f4499a.js.map": "/static/js/main.e3f4499a.js.map"
   },
   "entrypoints": [
     "static/css/main.b8e753e3.css",
-    "static/js/main.3952136e.js"
+    "static/js/main.e3f4499a.js"
   ]
 }
