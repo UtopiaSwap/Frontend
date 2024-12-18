@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b8e753e3.css",
-    "main.js": "/static/js/main.e1b0a6fe.js",
+    "main.js": "/static/js/main.6000eaa9.js",
     "static/media/pancakeswap.png": "/static/media/pancakeswap.28ea4eb6af6e41411b80.png",
     "static/media/cbBTC.png": "/static/media/cbBTC.39f9e22d5e4d3452bfe3.png",
     "static/media/bscusd.png": "/static/media/bscusd.52592faa929f6e8c8299.png",
@@ -13,6 +13,7 @@
     "static/media/eth.png": "/static/media/eth.d014d8873b0a42d42e45.png",
     "static/media/wbnb.png": "/static/media/wbnb.fdf03b8d7cd46b4e3921.png",
     "static/media/weth.png": "/static/media/weth.db6efc25de2470ac44a0.png",
+    "static/media/cEUR.png": "/static/media/cEUR.d5b4a882b51cdb67e245.png",
     "static/media/bnbLogo.png": "/static/media/bnbLogo.43a29a03e208b69718c5.png",
     "static/media/degen.png": "/static/media/degen.4ae6220486f3a8316206.png",
     "static/media/btcb.png": "/static/media/btcb.fd6f8932a276dcdd1980.png",
@@ -25,10 +26,10 @@
     "static/media/inverseLogo.png": "/static/media/inverseLogo.d75267089a8fb670bd94.png",
     "index.html": "/index.html",
     "main.b8e753e3.css.map": "/static/css/main.b8e753e3.css.map",
-    "main.e1b0a6fe.js.map": "/static/js/main.e1b0a6fe.js.map"
+    "main.6000eaa9.js.map": "/static/js/main.6000eaa9.js.map"
   },
   "entrypoints": [
     "static/css/main.b8e753e3.css",
-    "static/js/main.e1b0a6fe.js"
+    "static/js/main.6000eaa9.js"
   ]
 }
